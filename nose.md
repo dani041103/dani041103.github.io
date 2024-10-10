@@ -1,6 +1,6 @@
 ---
 title: home
 parent: si
-nav_order: 2
+layout: home
 ---
 Esto es otra pagina en blanco
