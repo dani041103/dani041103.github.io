@@ -1,6 +1,6 @@
 ---
 title: mango
-parent:hola
+parent: hola
 layout: home
 ---
 Esto es una página con texto.
