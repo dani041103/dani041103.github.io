@@ -1,5 +1,5 @@
 ---
-title: casa 2
+title: casa2
 parent: hola
 layout: home
 ---
