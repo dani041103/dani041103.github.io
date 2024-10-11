@@ -1,6 +1,6 @@
 ---
 title: casa 2
-parent: home 
+parent: hola
 layout: home
 ---
 Esta es otra página con texto
