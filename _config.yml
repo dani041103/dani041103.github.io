@@ -8,7 +8,7 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 # External navigation links
 nav_external_links:
-  - title: Papel
-    url: https://es.wikipedia.org/wiki/Papel
+  - title: TranferMarket Selección
+    url: https://www.transfermarkt.es/espana/startseite/verein/3375
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
