@@ -1,6 +1,8 @@
-# External navigation links
-nav_external_links:
-  - title: Hoja de papel
-    url: https://es.wikipedia.org/wiki/Papel
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+title: Pagina web
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://dani041103.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
