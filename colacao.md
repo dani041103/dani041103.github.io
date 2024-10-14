@@ -1,7 +1,6 @@
 ---
-title: casa2
-parent: hola
-nav_order: 2
+title: colacao
+parent: Hola
 layout: home
 ---
 Esta es otra página con texto
